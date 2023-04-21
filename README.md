@@ -12,25 +12,15 @@ The goal is to collect every pumpkin seed in a level and then reach the Pumpkin 
 <h2>In-game Screenshots:</h2>
 
 <p align="center">
-<img src="" height="80%" width="80%" alt="Happy Halloween"/>
+<img src="https://imgpile.com/images/hLTedl.png" height="80%" width="80%" alt="Happy Halloween"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Happy Halloween"/>
+<img src="https://imgpile.com/images/hLTjrw.png" height="80%" width="80%" alt="Happy Halloween"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Happy Halloween"/>
+<img src="https://imgpile.com/images/hLTZS3.png" height="80%" width="80%" alt="Happy Halloween"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Happy Halloween"/>
-<br />
-<br />
-<img src="" height="80%" width="80%" alt="Happy Halloween"/>
-<br />
-<br />
-<img src="" height="80%" width="80%" alt="Happy Halloween"/>
-<br />
-<br />
-<img src="" height="80%" width="80%" alt="Happy Halloween"/>
 </p>
 
 <!--
