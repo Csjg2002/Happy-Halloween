@@ -4,9 +4,11 @@
  ### [YouTube Walkthrough](https://www.youtube.com/watch?v=wpXD00SwV0o&ab_channel=Csjg2002)
 
 <h2>Description</h2>
-A simple Halloween themed 2D platformer made for a college assignment. I was the solo programmer for this project.
+A simple Halloween themed 2D platformer made for a college assignment.
 
 The goal is to collect every pumpkin seed in a level and then reach the Pumpkin at the end!
+
+I was the solo programmer for this project.
 
 <br />
 
