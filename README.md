@@ -6,7 +6,7 @@
 <h2>Description</h2>
 A simple Halloween themed 2D platformer made for a college assignment.
 
-The goal is to collect every pumpkin seed in a level and then reach the Pumpkin at the end!
+The goal is to collect every pumpkin seed in a level and then light the Pumpkin at the end!
 
 I was the solo programmer for this project.
 
