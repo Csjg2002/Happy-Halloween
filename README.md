@@ -15,7 +15,7 @@ I was the solo programmer for this project.
 <h2>In-game Clips:</h2>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/eb2476f9-837f-4564-9b73-1e949b9b97a2" height="80%" width="80%" alt="Happy Halloween"/>
+<img src="https://github.com/user-attachments/assets/0b5b11f1-dee2-40d3-90a2-ae097343e76e" height="80%" width="80%" alt="Happy Halloween"/>
 <br />
 <br />
 </p>
