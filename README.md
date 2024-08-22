@@ -4,11 +4,11 @@
  ### [YouTube Walkthrough](https://www.youtube.com/watch?v=wpXD00SwV0o&ab_channel=Csjg2002)
 
 <h2>Description</h2>
-A simple Halloween themed 2D platformer made for a college assignment.
+A simple Halloween-themed 2D platformer made for a college assignment.
 
 The goal is to collect every pumpkin seed in a level and then light the Pumpkin at the end!
 
-I was the solo programmer for this project.
+This was the first project I ever saw through to completion, and as the sole programmer, I was responsible for everything from coding player and gameplay mechanics to optimisation and bug-testing. It was an exciting challenge that allowed me to dive deep into developing games using Unreal Engine blueprints.
 
 <br />
 
