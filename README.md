@@ -1,7 +1,7 @@
 <h1>Happy Halloween</h1>
 
 ### [Itch.Io Page](https://evernightstudios.itch.io/happy-halloween)
- ### [YouTube Walkthrough](https://www.youtube.com/watch?v=wpXD00SwV0o&ab_channel=Csjg2002)
+### [YouTube Walkthrough](https://www.youtube.com/watch?v=wpXD00SwV0o&ab_channel=Csjg2002)
 
 <h2>Description</h2>
 <p>
