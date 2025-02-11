@@ -12,7 +12,6 @@ The goal is to collect every pumpkin seed in a level and then light the Pumpkin 
 </p>
 <p>
 This was the first project I ever saw through to completion, and as the sole programmer, I was responsible for everything from coding player and gameplay mechanics to optimisation and bug-testing. It was an exciting challenge that gave me the opportunity to dive deep into developing games using Unreal Engine blueprints.
-</p>
 <br />
 
 <h2>In-game Clips:</h2>
