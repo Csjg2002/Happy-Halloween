@@ -5,13 +5,13 @@
 
 <h2>Description</h2>
 <p>
-A simple Halloween-themed 2D platformer made for a college assignment.
+A simple Halloween-themed 2D platformer created for a university assignment.
 </p>
 <p>
-The goal is to collect every pumpkin seed in a level and then light the Pumpkin at the end!
+The objective is to collect every pumpkin seed in a level and light the Pumpkin at the end!
 </p>
 <p>
-This was the first project I ever saw through to completion, and as the sole programmer, I was responsible for everything from coding player and gameplay mechanics to optimisation and bug-testing. It was an exciting challenge that gave me the opportunity to dive deep into developing games using Unreal Engine blueprints.
+This was the first project I fully completed, and as the sole programmer, I was responsible for everything from coding the player and gameplay mechanics to optimisation and bug testing. It was an exciting challenge that allowed me to dive deep into game development using Unreal Engine blueprints.
 <br />
 
 <h2>In-game Clips:</h2>
